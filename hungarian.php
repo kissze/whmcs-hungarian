@@ -1816,7 +1816,12 @@ $_LANG['domaincheckeradding'] = "Hozzáadása";
 $_LANG['domaincheckeradded'] = "Hozzáadva";
 $_LANG['domaincheckernomoresuggestions'] = "Ez az összes eredmény van az Ön számára! Ha még mindig nem találja, amit keres, kérjük, próbáljon egy másik keresési kifejezés vagy kulcsszó.";
 $_LANG['domaincheckerunabletooffertld'] = "Sajnos nem áll módunkban regisztrálni a TLD ebben az időben";
-$_LANG['domaincheckerbulkplaceholder'] = "Adjon meg legfeljebb 20 domain neveket.\nEach nevet kell külön sorban.\n\nExamples:\nexample.com\nexample.net";
+$_LANG['domaincheckerbulkplaceholder'] = "Adjon meg legfeljebb 20 domain neveket.
+Each nevet kell külön sorban.
+
+Examples:
+example.com
+example.net";
 
 $_LANG['domainchecker']['suggestiontakentitle'] = "Domain Nem érhető el";
 $_LANG['domainchecker']['suggestiontakenmsg'] = "Sajnos a domain kiválasztott nem érhető el. Ennek oka, ha a domain regisztrációja megtörtént a közelmúltban. Menj vissza és válasszon másik domaint.";
