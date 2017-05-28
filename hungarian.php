@@ -2152,8 +2152,8 @@ $_LANG['domainCheckerSalesGroup']['new'] = "New";
 
 $_LANG['pricing']['browseExtByCategory'] = "Browse extensions by category";
 $_LANG['pricing']['register'] = "New Price";
-$_LANG['pricing']['transfer'] = "Transfer";
-$_LANG['pricing']['renewal'] = "Renewal";
+$_LANG['pricing']['transfer'] = "Transzfer";
+$_LANG['pricing']['renewal'] = "Megújítása";
 
 $_LANG['navStore'] = "Store";
 $_LANG['navBrowseProductsServices'] = "Browse All";
