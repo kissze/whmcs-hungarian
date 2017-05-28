@@ -2125,7 +2125,7 @@ $_LANG['orderForm']['domainPriceTransferLabel'] = "Transfer to us and extend by 
 
 $_LANG['change'] = "Change";
 
-$_LANG['cartSimpleCaptcha'] = "Please enter the code shown below";
+$_LANG['cartSimpleCaptcha'] = "Kérjük, írja be az alább látható kódot";
 
 $_LANG['clientHomePanels']['showingRecent100'] = "Showing the most recent 100 records";
 $_LANG['orderForm']['domainLetterOrNumber'] = "Domains must begin with a letter or a number";
