@@ -4,10 +4,10 @@ msgstr ""
 "Project-Id-Version: Hungarian (WHMCS Translation)\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-29 15:14+0000\n"
-"PO-Revision-Date: 2017-05-29 22:19+0000\n"
+"PO-Revision-Date: 2017-05-29 22:22+0000\n"
 "Last-Translator: Zoltan Kiss <zoltan.kiss@serverside.hu>\n"
 "Language-Team: Hungarian <https://weblate.serverside.hu/projects/whmcs-"
-"translation/client-area/hu/>\n"
+"translations/client-area/hu/>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -3208,11 +3208,11 @@ msgstr ""
 
 #: $_LANG['serverns1prefix']
 msgid "NS1 Prefix"
-msgstr "NS1 Előtag (ns1.infotipp.hu)"
+msgstr "NS1 Előtag"
 
 #: $_LANG['serverns2prefix']
 msgid "NS2 Prefix"
-msgstr "NS2 Előtag (ns2.infotipp.hu)"
+msgstr "NS2 Előtag"
 
 #: $_LANG['serverpassword']
 msgctxt "$_LANG['serverpassword']"
