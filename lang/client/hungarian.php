@@ -1096,7 +1096,6 @@ $_LANG['recurringpromodesc'] = "Ez a promóciós kód is tartalmaz %s Ismétlőd
 # Version 4.5.2
 
 $_LANG['ajaxcartcheckout'] = "Ugrás egyenesen a pénztár &raquo;";
-$_LANG['ordersummarybegin'] = "Kosara üres<br/>Kérjük, válasszon egy terméket megkezdéséhez...";
 $_LANG['ajaxcartconfigreqnotice'] = "Te a módja annak, hogy regisztrálsz a számunkra, de meg kell választani a domain előtt felveheti a kiválasztott terméket a kosárba...";
 
 # Version 5.0.0
@@ -1545,12 +1544,9 @@ $_LANG['announcementsbymonth'] = "Hónap szerint";
 $_LANG['announcementsolder'] = "Régebbi hírek";
 $_LANG['createnewcontact'] = "Új fiók...";
 $_LANG['due'] = "Esedékes";
-$_LANG['affiliatessignups'] = "Regisztrációk száma";
-$_LANG['affiliatesconversionrate'] = "A konverziós ráta";
 $_LANG['affiliatesclicks'] = "Kattintások";
 $_LANG['contacts'] = "Fiókok";
 $_LANG['backtoservicedetails'] = "Vissza";
-$_LANG['invoicesintro'] = "Az alábbiakban megtekintheti a teljes számlatörténetet";
 
 $_LANG['sidebars']['viewAccount']['yourAccount'] = "Az Ön fiókja";
 $_LANG['sidebars']['viewAccount']['myDetails'] = "Adataim";
@@ -1587,7 +1583,6 @@ $_LANG['myaccount'] = "Fiókom";
 
 $_LANG['manageproduct'] = "Termék kezelése";
 $_LANG['overview'] = "Áttekintés";
-$_LANG['servername'] = "Szerver";
 $_LANG['visitwebsite'] = "Weboldal megtekintése";
 $_LANG['whoisinfo'] = "WHOIS Információ";
 
@@ -1608,7 +1603,6 @@ $_LANG['actions'] = "Műveletek";
 
 $_LANG['upgradedowngradeshort'] = "Csomag váltás";
 
-$_LANG['masspayintro'] = "Fizesse ki egyszerre összes számláját egyetlen tranzakcióval";
 $_LANG['masspaymentselectgateway'] = "Fizetési mód kiválasztása";
 
 $_LANG['ticketfeedbackrequest'] = "Visszajelzés kérése";
@@ -1924,7 +1918,6 @@ $_LANG['shoppingCartProductPerYear'] = "<span>:price</span>/:countyr";
 $_LANG['orderForm']['findNewDomain'] = "Keresse meg az új domain nevet. Adja meg a nevét, illetve kulcsszavak követve ellenőrizze a rendelkezésre álló.";
 $_LANG['orderForm']['transferExistingDomain'] = "Transzfer a meglévő domain neveket nekünk, és mentse.";
 $_LANG['orderForm']['www'] = "www.";
-$_LANG['orderForm']['check'] = "Ellenőrzés";
 $_LANG['orderForm']['returnToClientArea'] = "Vissza az ügyfélkapuba";
 $_LANG['orderForm']['checkout'] = "Pénztár";
 $_LANG['orderForm']['alreadyRegistered'] = "Már regisztrált?";
@@ -1962,7 +1955,6 @@ $_LANG['orderForm']['configureDesiredOptions'] = "Állítsa be a kívánt param�
 $_LANG['orderForm']['haveQuestionsContact'] = "Kérdése van? Lépjen kapcsolatba az Ügyfélszolgálattal.";
 $_LANG['orderForm']['haveQuestionsClickHere'] = "Kattintson ide";
 $_LANG['orderForm']['use'] = "Felhasználás";
-$_LANG['orderForm']['check'] = "Ellenőrzés";
 $_LANG['orderForm']['transfer'] = "Transzfer";
 $_LANG['orderForm']['domainAddedToCart'] = "Ezt a domaint hozzáadva a kosárhoz.";
 $_LANG['orderForm']['registerLongerAndSave'] = "Regisztrálj hosszabb és mentse!";
