@@ -698,7 +698,6 @@ $_LANG['serverchangepasswordsuccessful'] = "Password Changed Successfully!";
 $_LANG['serverchangepasswordupdate'] = "Update";
 $_LANG['serverhostname'] = "Hostname";
 $_LANG['serverlogindetails'] = "Login Details";
-$_LANG['servername'] = "Server";
 $_LANG['serverns1prefix'] = "NS1 Prefix";
 $_LANG['serverns2prefix'] = "NS2 Prefix";
 $_LANG['serverpassword'] = "Password";
@@ -861,8 +860,6 @@ $_LANG['overagestotalbwusage'] = "Total Bandwidth Usage";
 
 $_LANG['affiliatescommissionspending'] = "Commissions Pending Maturation";
 $_LANG['affiliatescommissionsavailable'] = "Available Commissions Balance";
-$_LANG['affiliatessignups'] = "Number of Signups";
-$_LANG['affiliatesconversionrate'] = "Conversion Rate";
 
 $_LANG['configoptionqtyminmax'] = "%s has a minimum requirement of %s and maximum of %s";
 
@@ -973,8 +970,6 @@ $_LANG['orderformtitle'] = "Order Form";
 
 $_LANG['signup'] = "Signup";
 $_LANG['loading'] = "Loading...";
-
-$_LANG['ordersummarybegin'] = "Please choose a product to begin";
 
 $_LANG['cartchooseproduct'] = "Choose Product";
 $_LANG['cartconfigurationoptions'] = "Configuration Options";
@@ -1241,13 +1236,11 @@ $_LANG['clientareahomeloginbtn'] = "Secure Client Login";
 $_LANG['clientareaproductsintro'] = "These are all the services you have registered in this account.";
 $_LANG['clientareaproductdetailsintro'] = "Here is an overview of your product/service with us.";
 $_LANG['clientareadomainsintro'] = "View &amp; manage all the domains you have registered with us from here...";
-$_LANG['invoicesintro'] = "Below you can review your entire invoice history with us.";
 $_LANG['quotesintro'] = "Here are all the quotes we've generated for you.";
 $_LANG['emailstagline'] = "Here's a copy of the recent emails we've sent you...";
 $_LANG['supportticketsintro'] = "Submit and track any enquiries with us here...";
 $_LANG['addfundsintro'] = "Deposit money in advance";
 $_LANG['registerintro'] = "Create an account with us . . .";
-$_LANG['masspayintro'] = "Pay all the invoices listed below in a single easy transaction by choosing a payment method";
 $_LANG['networkstatusintro'] = "Service Status Information and Network Announcements";
 
 $_LANG['creditcardyourinfo'] = "Billing Information";
@@ -1957,7 +1950,6 @@ $_LANG['orderForm']['configureDesiredOptions'] = "Configure your desired options
 $_LANG['orderForm']['haveQuestionsContact'] = "Have questions? Contact our sales team for assistance.";
 $_LANG['orderForm']['haveQuestionsClickHere'] = "Click here";
 $_LANG['orderForm']['use'] = "Use";
-$_LANG['orderForm']['check'] = "Check";
 $_LANG['orderForm']['transfer'] = "Transfer";
 $_LANG['orderForm']['domainAddedToCart'] = "This domain has been added to your cart.";
 $_LANG['orderForm']['registerLongerAndSave'] = "Register for longer and save!";
