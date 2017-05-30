@@ -348,16 +348,16 @@ $_LANG['domainregisternsregsuccess'] = "A névszerverét sikeresen regisztrálta
 $_LANG['domainregistrantchoose'] = "Válassza ki a kívánt névjegyet használni itt";
 $_LANG['domainregistrantinfo'] = "Domain Regisztráló információk";
 $_LANG['domainregistrarlock'] = "Regisztrátor zárolása";
-$_LANG['domainregistrarlockdesc'] = "Engedélyezze a regisztrátor zárolása (Ajánlott). A jogosulatlan átutalás megelőzhető, ha be van állítva.";
+$_LANG['domainregistrarlockdesc'] = "Engedélyezze a regisztrátor zárolását (ajánlott). A jogosulatlan átutalás megelőzhető, ha be van kapcsolva.";
 $_LANG['domainregistration'] = "Domain regisztráció";
 $_LANG['domainregistryinfo'] = "Domain Rendszerleíróadatbázis adatok";
 $_LANG['domainregnotavailable'] = "N/A";
-$_LANG['domainrenew'] = "Újítsa meg a Domaint";
-$_LANG['domainrenewal'] = "Domain Megújítása";
+$_LANG['domainrenew'] = "Újítsa meg a domaint";
+$_LANG['domainrenewal'] = "Domain megújítása";
 $_LANG['domainrenewalprice'] = "Megújítása";
 $_LANG['domainrenewdesc'] = "Biztonságos az Ön domain (ek) hozzáadásával több évet őket. Válassza ki, hány évig szeretné megújítani és aztán benyújtania folytatni.";
-$_LANG['domainsautorenew'] = "Automatikus Megújítás";
-$_LANG['domainsautorenewdisable'] = "Automatikus Megújítás Letiltása";
+$_LANG['domainsautorenew'] = "Automatikus megújítás";
+$_LANG['domainsautorenewdisable'] = "Automatikus megújítás letiltása";
 $_LANG['domainsautorenewdisabled'] = "Tiltva";
 $_LANG['domainsautorenewdisabledwarning'] = "FIGYELEM! Ez a domain automatikus megújítás tiltva.<br />Ezért jár le, és inaktívvá válnak a végén az idő, kivéve, ha manuálisan meghosszabbítható.";
 $_LANG['domainsautorenewenable'] = "Automatikus Megújítás Engedélyezése";
@@ -1053,7 +1053,7 @@ $_LANG['quotefinalpayment'] = "Egyenleg Befizetése";
 $_LANG['invoiceoneoffpayment'] = "Legyen egy egyszeri kifizetés";
 $_LANG['invoicesubscriptionpayment'] = "Készítsen automatikus Ismétlődő Előfizetést";
 
-$_LANG['invoicepaymentpendingreview'] = "Köszönjük! A fizetés sikeres volt, és alkalmazni kell a számlát, amint 2checkout a felülvizsgálati folyamat befejeződött.<br /><br />Ez eltarthat akár néhány órát, így a türelem értékelik.";
+$_LANG['paymentpendingreview'] = "Köszönjük! A fizetés sikeres volt, és alkalmazni kell a számlát, amint 2checkout a felülvizsgálati folyamat befejeződött.<br /><br />Ez eltarthat akár néhány órát, így a türelem értékelik.";
 
 $_LANG['step'] = "Lépés %k";
 $_LANG['cartdomainexists'] = "Ez a domain már létezik az adatbázisban, így nem rendelhető újra";
@@ -1088,7 +1088,7 @@ $_LANG['cartfraudcheck'] = "Csalás-ellenőrzés";
 
 $_LANG['newcustomer'] = "Új ügyfél";
 $_LANG['existingcustomer'] = "Meglévő ügyfél";
-$_LANG['newcustomersignup'] = "<strong>Még nem regisztrált?</strong> %sKattintson ide a regisztráció...%s";
+$_LANG['newcustomersignup'] = "<strong>Még nem regisztrált?</strong> %sKattintson ide a regisztrációhoz%s";
 
 $_LANG['upgradeonselectedoptions'] = "(A kiválasztott beállítások)";
 $_LANG['recurringpromodesc'] = "Ez a promóciós kód is tartalmaz %s Ismétlődő kedvezmény<br />(A kedvezmény vonatkozik a jövőbeli felújításokra a termék teljes árát)";
@@ -1143,9 +1143,9 @@ $_LANG['domainbulkmanagementchangeaffect'] = "Ez a módosítás vonatkozik a kö
 $_LANG['domaincannotbemanaged'] = "nem lehet automatikus irányítását - forduljon az ügyfélszolgálathoz változtatásokat kíván tenni";
 $_LANG['domainbulkmanagementnotpossible'] = "Sajnos ezeket a beállításokat nem lehet megváltoztatni az ügyfeleink terület az aktuális időt. Kérjük, forduljon az ügyfélszolgálathoz minden változtatás, amit csinálni akartam.";
 
-$_LANG['domainmanagens'] = "Kezelés névszerverek";
+$_LANG['domainmanagens'] = "Névszerverek kezelése";
 
-$_LANG['domainautorenewstatus'] = "Automatikus megújítási állapot";
+$_LANG['domainautorenewstatus'] = "Automatikus megújítás állapota";
 $_LANG['domainautorenewinfo'] = "Automatikus megújítása segít megvédeni a domain. Ha engedélyezve van, akkor automatikusan küld Önnek egy számlát megújítása előtt néhány héttel a domain lejár, és megújítani a domain kell fizetési sikeres legyen.";
 $_LANG['domainautorenewrecommend'] = "Azt javasoljuk, hogy az automatikus megújítása lehetővé tette, nehogy a domain.";
 
@@ -1155,9 +1155,9 @@ $_LANG['domainreglockrecommend'] = "Javasoljuk, hogy tartsa ezt engedélyezve, k
 $_LANG['domainreglockenable'] = "Engedélyezze a Regisztrátor Zár";
 $_LANG['domainreglockdisable'] = "Letiltása Regisztrátor Zár";
 
-$_LANG['domaincontactinfoedit'] = "Szerkesztése Kapcsolat adatai";
+$_LANG['domaincontactinfoedit'] = "Kapcsolat adatainak szerkesztése";
 
-$_LANG['domainmassrenew'] = "Megújítás Domainok";
+$_LANG['domainmassrenew'] = "Domainek megújítása";
 
 # reCAPTCHA
 
@@ -1191,19 +1191,19 @@ $_LANG['bundlewarningdomainaddon'] = "A kiválasztott csomag megköveteli, vála
 
 # New Client Area Template  Lines
 
-$_LANG['navservices'] = "Szolgáltatások";
+$_LANG['navservices'] = "Szolgáltatás";
 $_LANG['navservicesorder'] = "Rendeljen új szolgáltatást";
-$_LANG['navservicesplaceorder'] = "Új Megrendelés";
-$_LANG['navdomains'] = "Domainek";
-$_LANG['navrenewdomains'] = "Domainek Megújítása";
+$_LANG['navservicesplaceorder'] = "Új megrendelés";
+$_LANG['navdomains'] = "Domain";
+$_LANG['navrenewdomains'] = "Domainek megújítása";
 $_LANG['navregisterdomain'] = "Új domain regisztrálása";
 $_LANG['navtransferdomain'] = "Hozza át domain nevét hozzánk";
-$_LANG['navdomainsearch'] = "Domain Keresés";
-$_LANG['navbilling'] = "Számlázás";
-$_LANG['navinvoices'] = "Számlák";
+$_LANG['navdomainsearch'] = "Domain keresés";
+$_LANG['navbilling'] = "Pénzügy";
+$_LANG['navinvoices'] = "Díjbekérő";
 $_LANG['navsupport'] = "Támogatás";
-$_LANG['navtickets'] = "Hibajegyek";
-$_LANG['navopenticket'] = "Új Támogatási Jegy";
+$_LANG['navtickets'] = "Hibajegy";
+$_LANG['navopenticket'] = "Új hibajegy";
 $_LANG['navmanagecc'] = "Bankkártyák kezelése";
 $_LANG['navemailssent'] = "Elküldött e-mailek";
 
@@ -1257,10 +1257,10 @@ $_LANG['ccexpiringsoon'] = "Hitelkártya hamarosan lejár";
 $_LANG['ccexpiringsoondesc'] = "A hitelkártya hamarosan lejár, így győződjön meg arról, %s frissítse a kártya adatait %s velünk, ha lehet";
 $_LANG['availcreditbal'] = "Elérhető Hitel Egyenleg";
 $_LANG['availcreditbaldesc'] = "Van egy hitel egyenlege %s, és ez automatikusan alkalmazni az új számlák";
-$_LANG['youhaveoverdueinvoices'] = "Önnek van %s Esedékes Számla(k)";
+$_LANG['youhaveoverdueinvoices'] = "Önnek %s esedékes díjbekérője van";
 $_LANG['overdueinvoicesdesc'] = "Annak elkerülése érdekében, szolgáltatás megszakítása, kérem fizetni a kiemelkedő számlákat a lehető leghamarabb. %sFizetés most &raquo;%s";
-$_LANG['supportticketsnoneopen'] = "Jelenleg nincs megnyitott támogató jegyek";
-$_LANG['invoicesnoneunpaid'] = "Jelenleg nincs kifizetetlen számla";
+$_LANG['supportticketsnoneopen'] = "Jelenleg nincs Ön által nyitott hibajegy";
+$_LANG['invoicesnoneunpaid'] = "Jelenleg nincs kifizetetlen számlája";
 
 $_LANG['registerdisablednotice'] = "A regisztrációhoz kérjük feladni <strong><a href=\"cart.php\">Rendelés</a></strong>";
 $_LANG['registerCreateAccount'] = "Ahhoz, hogy hozzon létre egy fiókot, kérjük,";
@@ -1375,8 +1375,8 @@ $_LANG['clientgroupdiscount'] = "Ügyfél Kedvezmény";
 $_LANG['billableitemshours'] = "Órák";
 $_LANG['billableitemshour'] = "Óra";
 
-$_LANG['invoicefilename'] = "Számla-";
-$_LANG['quotefilename'] = "Ajánlat-";
+$_LANG['invoicefilename'] = "dijbekero-";
+$_LANG['quotefilename'] = "ajanlat-";
 
 # Domain Addons
 
@@ -1574,9 +1574,9 @@ $_LANG['managecontacts'] = "Kapcsolatok Kezelése";
 $_LANG['billingdetails'] = "Számlázási Adatok";
 $_LANG['homechooseproductservice'] = "Válassza ki a szolgáltatást:";
 
-$_LANG['invoicesdue'] = "Esedékes számla";
-$_LANG['invoicesduemsg'] = "Önnek %s fizetetlen számlája van, összes hátraléka: %s - Kérjük mielőbb rendezze! Köszönjük.";
-$_LANG['noinvoicesduemsg'] = "Önnek jelenleg nincs fizetetlen számlája. Köszönjük!";
+$_LANG['invoicesdue'] = "Esedékes díjbekérő";
+$_LANG['invoicesduemsg'] = "Önnek %s fizetetlen díjbekérője van, összes hátraléka: %s - Kérjük mielőbb rendezze! Köszönjük.";
+$_LANG['noinvoicesduemsg'] = "Önnek jelenleg nincs fizetetlen díjbekérője. Köszönjük!";
 
 $_LANG['expiringsoon'] = "Hamarosan Lejár";
 
@@ -1623,7 +1623,7 @@ $_LANG['kbviewingarticlestagged'] = "Bejelölt bejegyzések";
 
 $_LANG['domainprivatenameservers'] = "Egyéni névszerverek";
 
-$_LANG['transferinadomain'] = "A Domain átadása";
+$_LANG['transferinadomain'] = "Domain átadása";
 
 $_LANG['nodomainextensions'] = "Nincsenek Domain kiterjesztések jelenleg beállított vásárlás";
 
@@ -1758,9 +1758,9 @@ $_LANG['clientAlerts']['invoicesOverdue'] = "Neked van :numberOfInvoices esedék
 $_LANG['clientAlerts']['creditBalance'] = "Van egy egyenlege :creditBalance.";
 
 // Client homepage panels
-$_LANG['clientHomePanels']['unpaidInvoices'] = "Kifizetetlen számlák";
+$_LANG['clientHomePanels']['unpaidInvoices'] = "Kifizetetlen díjbekérők";
 $_LANG['clientHomePanels']['unpaidInvoicesMsg'] = "Neked van :numberOfInvoices kifizetetlen számla(s) összesen esedékes egyenleg a :balanceDue. Fizesse őket korán a nyugalom érdekében.";
-$_LANG['clientHomePanels']['overdueInvoices'] = "Lejárt számlák";
+$_LANG['clientHomePanels']['overdueInvoices'] = "Lejárt díjbekérők";
 $_LANG['clientHomePanels']['overdueInvoicesMsg'] = "Neked van :numberOfInvoices esedékes számla(s) összesen esedékes egyenleg a :balanceDue. Fizesse őket most, hogy elkerülje a szolgáltatás szüneteltetése.";
 $_LANG['clientHomePanels']['domainsExpiringSoon'] = "Hamarosan lejáró domainek";
 $_LANG['clientHomePanels']['domainsExpiringSoonMsg'] = "Neked van :numberOfDomains domain(s) belüli lejáratú a következő :days nap. Megújítás őket ma a nyugalom érdekében.";
