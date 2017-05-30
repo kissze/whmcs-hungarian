@@ -1310,7 +1310,7 @@ $_LANG['domaincheckerenterdomain'] = "Indítsa el a web tárhely velünk a tapas
 $_LANG['kbquestionsearchere'] = "Kérdése van? Kezdje itt a keresést.";
 $_LANG['contactus'] = "Kapcsolat";
 
-$_LANG['opennewticket'] = "Új támogatási jegy";
+$_LANG['opennewticket'] = "Új hibajegy";
 $_LANG['searchtickets'] = "Írja be jegy # vagy a tárgyat";
 $_LANG['supportticketspriority'] = "Prioritás";
 $_LANG['supportticketsubmitted'] = "Benyújtott";
@@ -1628,7 +1628,7 @@ $_LANG['transferinadomain'] = "Domain átadása";
 $_LANG['nodomainextensions'] = "Nincsenek Domain kiterjesztések jelenleg beállított vásárlás";
 
 $_LANG['homebegin'] = "Találja meg a tökéletes domain nevet...";
-$_LANG['howcanwehelp'] = "Hogyan segíthetünk ma?";
+$_LANG['howcanwehelp'] = "Miben segíthetünk?";
 $_LANG['exampledomain'] = "pl. example.com";
 $_LANG['buyadomain'] = "Domain";
 $_LANG['orderhosting'] = "Webtárhely";
@@ -1699,11 +1699,11 @@ $_LANG['domainsExpired'] = "Lejárt";
 $_LANG['domainsCancelled'] = "Törölve";
 $_LANG['domainsFraud'] = "Csalás";
 $_LANG['domainsPending'] = "Függőben lévő";
-$_LANG['domainsPendingTransfer'] = "Függőben lévő Transzfer";
-$_LANG['domainsExpiringInTheNext30Days'] = "Lejáró a következő 30 napban";
-$_LANG['domainsExpiringInTheNext90Days'] = "Lejáró a következő 90 napban";
-$_LANG['domainsExpiringInTheNext180Days'] = "A következő 180 napon lejáró";
-$_LANG['domainsExpiringInMoreThan180Days'] = "Több mint 180 napon lejáró";
+$_LANG['domainsPendingTransfer'] = "Függőben lévő átregisztráció";
+$_LANG['domainsExpiringInTheNext30Days'] = "A következő 30 napban lejáró";
+$_LANG['domainsExpiringInTheNext90Days'] = "A következő 90 napban lejáró";
+$_LANG['domainsExpiringInTheNext180Days'] = "A következő 180 napban lejáró";
+$_LANG['domainsExpiringInMoreThan180Days'] = "Több mint 180 napban lejáró";
 
 $_LANG['kbtagcloud'] = "Címkefelhő";
 
