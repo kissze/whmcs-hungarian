@@ -204,11 +204,11 @@ $_LANG['clientareanavaddcontact'] = "Új kapcsolattartó";
 $_LANG['clientareanavchangecc'] = "Hitelkártya-adatok módosítása";
 $_LANG['clientareanavchangepw'] = "Jelszó módosítása";
 $_LANG['clientareanavdetails'] = "Adataim";
-$_LANG['clientareanavdomains'] = "Saját Domainek";
+$_LANG['clientareanavdomains'] = "Domain neveim";
 $_LANG['clientareanavhome'] = "Főoldal";
 $_LANG['clientareanavlogout'] = "Kilépés";
 $_LANG['clientareanavorder'] = "Rendelés További tételek";
-$_LANG['clientareanavsecurityquestions'] = "Módosítás biztonsági kérdés";
+$_LANG['clientareanavsecurityquestions'] = "Biztonsági kérdés módosítása";
 $_LANG['clientareanavservices'] = "Szolgáltatások";
 $_LANG['clientareanavsupporttickets'] = "Hibajegyek";
 $_LANG['clientareanocontacts'] = "Nem található fiók";
@@ -1196,7 +1196,7 @@ $_LANG['navservicesorder'] = "Új szolgáltatás rendelése";
 $_LANG['navservicesplaceorder'] = "Új megrendelés";
 $_LANG['navdomains'] = "Domain";
 $_LANG['navrenewdomains'] = "Domainek megújítása";
-$_LANG['navregisterdomain'] = "Új domain regisztrálása";
+$_LANG['navregisterdomain'] = "Új domain regisztráció";
 $_LANG['navtransferdomain'] = "Regisztrálja át domain nevét hozzánk";
 $_LANG['navdomainsearch'] = "Domain keresés";
 $_LANG['navbilling'] = "Pénzügy";
@@ -1272,7 +1272,7 @@ $_LANG['pwstrengthweak'] = "Gyenge";
 $_LANG['pwstrengthmoderate'] = "Közepes";
 $_LANG['pwstrengthstrong'] = "Erős";
 
-$_LANG['managing'] = "Kezelése";
+$_LANG['managing'] = "Kezelés";
 $_LANG['information'] = "Információk";
 $_LANG['withselected'] = "A kiválasztott";
 $_LANG['managedomain'] = "Domain kezelése";
@@ -1787,19 +1787,19 @@ $_LANG['upgrade'] = "Frissítés";
 
 $_LANG['downdoadsdesc'] = "Kézikönyvek, programok és egyéb fájlok";
 
-$_LANG['doToday'] = "Mit szeretne csinálni ma?";
-$_LANG['changeDomainNS'] = "Változás a névszerverek a domain rámutat arra";
-$_LANG['updateWhoisContact'] = "Frissítse a WHOIS elérhetőségi adatait a domain";
-$_LANG['changeRegLock'] = "A domain regisztrátor zár állapotának módosítása";
-$_LANG['renewYourDomain'] = "Megújítani a Domaint";
+$_LANG['doToday'] = "Mit szeretne tenni?";
+$_LANG['changeDomainNS'] = "Domain névszervereinek módosítása";
+$_LANG['updateWhoisContact'] = "Domain WHOIS elérhetőségi adatainak frissítése";
+$_LANG['changeRegLock'] = "Domain regisztrátor zár állapotának módosítása";
+$_LANG['renewYourDomain'] = "Domain megújítása";
 
 $_LANG['oops'] = "Hoppá";
-$_LANG['goback'] = "Menj Vissza";
-$_LANG['returnhome'] = "Vissza Kezdőlapra";
+$_LANG['goback'] = "Vissza";
+$_LANG['returnhome'] = "Vissza a kezdőlapra";
 $_LANG['blankCustomField'] = "(nincs értéke)";
 
-$_LANG['viewAll'] = "Összes Megtekintése";
-$_LANG['moreDetails'] = "További Részletek";
+$_LANG['viewAll'] = "Összes megtekintése";
+$_LANG['moreDetails'] = "További részletek";
 
 $_LANG['clientHomeSearchKb'] = "Keresés a tudásbázisban...";
 
@@ -2139,14 +2139,14 @@ $_LANG['clientareatransferredaway'] = "Átadott";
 $_LANG['clientareacompleted'] = "Befejezett";
 $_LANG['domainContactUs'] = "Lépjen kapcsolatba velünk";
 
-$_LANG['orderForm']['shortPerYear'] = "/:yearsyr";
-$_LANG['orderForm']['shortPerYears'] = "/:yearsyrs";
+$_LANG['orderForm']['shortPerYear'] = "/:yearsév";
+$_LANG['orderForm']['shortPerYears'] = "/:yearsév";
 
 $_LANG['domainCheckerSalesGroup']['sale'] = "Akció";
 $_LANG['domainCheckerSalesGroup']['hot'] = "Kiemelt";
 $_LANG['domainCheckerSalesGroup']['new'] = "Új";
 
-$_LANG['pricing']['browseExtByCategory'] = "Browse extensions by category";
+$_LANG['pricing']['browseExtByCategory'] = "Végződések kategóriánkénti szűrése";
 $_LANG['pricing']['register'] = "New Price";
 $_LANG['pricing']['transfer'] = "Transfer";
 $_LANG['pricing']['renewal'] = "Renewal";
