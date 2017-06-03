@@ -920,8 +920,8 @@ $_LANG['invoicestotaldue'] = "Fizetendő összeg";
 $_LANG['masspaytitle'] = "Tömeges fizetés";
 $_LANG['masspaydescription'] = "Az alábbiakban összefoglaljuk a kiválasztott számlák és a teljes miatt fizetni mindet. A benyújtja kifizetési kérjük csak válassza ki a kívánt fizetési módot az alábbiakban majd benyújtja.";
 $_LANG['masspayselected'] = "Fizetés Kiválasztott";
-$_LANG['masspayall'] = "Fizetés összes";
-$_LANG['masspaymakepayment'] = "Teljesít fizetést";
+$_LANG['masspayall'] = "Összes tétel kiegyenlítése";
+$_LANG['masspaymakepayment'] = "Fizetés indítása";
 
 # Version 4.3
 
@@ -1593,7 +1593,7 @@ $_LANG['whoisinfo'] = "WHOIS Információ";
 
 $_LANG['tableshowing'] = "Listázva: _START_ - _END_ tétel. Összesen: _TOTAL_ tétel";
 $_LANG['tableempty'] = "Nincs elérhető bejegyzés";
-$_LANG['tablefiltered'] = "(szűri a _MAX_ összes bejegyzés)";
+$_LANG['tablefiltered'] = "(_MAX_ bejegyzés szűrve)";
 $_LANG['tablelength'] = "_MENU_ elem oldalanként";
 $_LANG['tableloading'] = "Betöltés...";
 $_LANG['tableprocessing'] = "Feldolgozás...";
@@ -1752,9 +1752,9 @@ $_LANG['quoteacceptcontractwarning'] = "Felhívjuk figyelmét, hogy elfogadása 
 
 // Client alerts
 $_LANG['clientAlerts']['creditCardExpiring'] = "Ön hitelkártyája :creditCardType-:creditCardLastFourDigits belül lejár :days nap. Kérjük, frissítse a lehető legkorábbi időpontban.";
-$_LANG['clientAlerts']['domainsExpiringSoon'] = "Neked van :numberOfDomains domain(s) belüli lejáratú következő :days nap.";
-$_LANG['clientAlerts']['invoicesUnpaid'] = "Neked van :numberOfInvoices kifizetetlen számla(s). Fizesse őket korán a nyugalom érdekében.";
-$_LANG['clientAlerts']['invoicesOverdue'] = "Neked van :numberOfInvoices esedékes számla(s) összesen esedékes egyenleg a :balanceDue. Fizesse őket most, hogy elkerülje a szolgáltatás szüneteltetése.";
+$_LANG['clientAlerts']['domainsExpiringSoon'] = "Önnek :numberOfDomains domain neve :days napon belül lejár.";
+$_LANG['clientAlerts']['invoicesUnpaid'] = "Önnek :numberOfInvoices kifizetetlen díjbekérője van. Kérjük rendezze tartozását!";
+$_LANG['clientAlerts']['invoicesOverdue'] = "Önnek :numberOfInvoices esedékes díjbekérője van. Esedékes díjbekérőinek összege: :balanceDue. Kérjük rendezze tartozását, hogy elkerülje a szolgáltatás esetleges szüneteletetését!";
 $_LANG['clientAlerts']['creditBalance'] = "Van egy egyenlege :creditBalance.";
 
 // Client homepage panels
@@ -1763,7 +1763,7 @@ $_LANG['clientHomePanels']['unpaidInvoicesMsg'] = "Neked van :numberOfInvoices k
 $_LANG['clientHomePanels']['overdueInvoices'] = "Lejárt díjbekérők";
 $_LANG['clientHomePanels']['overdueInvoicesMsg'] = "Önnek :numberOfInvoices esedékes díjbekérője van,  esedékes egyenlege :balanceDue. Fizesse be őket mihamarabb, hogy elkerülje a szolgáltatás szüneteltetését.";
 $_LANG['clientHomePanels']['domainsExpiringSoon'] = "Hamarosan lejáró domainek";
-$_LANG['clientHomePanels']['domainsExpiringSoonMsg'] = "Önnek :numberOfDomains domain neve le fog járni a következő :days napban. Kérjük, hogy a problémák elkerülése érdekében mihamarabb hosszabbítsa meg őket.";
+$_LANG['clientHomePanels']['domainsExpiringSoonMsg'] = "Önnek :numberOfDomains domain neve le fog járni a következő :days napban. Kérjük, hogy a problémák elkerülése érdekében mihamarabb hosszabbítsa meg.";
 $_LANG['clientHomePanels']['activeProductsServices'] = "Aktív Termékek/Szolgáltatások";
 $_LANG['clientHomePanels']['activeProductsServicesNone'] = "Önnek még nincs megrendelt terméke/szolgáltatása. <a href=\"cart.php\">Megrendelés indítása</a>";
 $_LANG['clientHomePanels']['recentNews'] = "Legújabb hírek";
